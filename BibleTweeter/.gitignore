@@ -306,3 +306,4 @@ OpenCover/
 
 # Secret
 secret.py
+*.pyproj
